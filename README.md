@@ -1,4 +1,4 @@
-# EasyBot Using Google Gemini API
+# EasyBot Using API
 
 ## Project Overview
 **EasyBot** is an intelligent chatbot application developed using Android Studio, leveraging the power of Google's Gemini API for natural language understanding and response generation. This project showcases seamless integration of API services to deliver a robust chatbot experience.
